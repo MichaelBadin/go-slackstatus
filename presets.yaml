@@ -1,0 +1,59 @@
+meeting:
+  text: "In a meeting"
+  emoji: ":spiral_calendar_pad:"
+  expiry: "0s"
+
+lunch:
+  text: "Out for lunch"
+  emoji: ":hamburger:"
+  expiry: "1h"
+
+focus:
+  text: "Doing focused work"
+  emoji: ":heads-down:"
+  expiry: "0s"
+
+coffee:
+  text: "Coffee break"
+  emoji: ":coffee:"
+  expiry: "15m"
+
+vacation:
+  text: "PTO"
+  emoji: ":pto:"
+  expiry: "0s"
+
+sick:
+  text: "Out sick"
+  emoji: ":mask:"
+  expiry: "0s"
+
+self-care:
+  text: "Practicing self-care / Taking care of someone"
+  emoji: ":heavy_heart_exclamation_mark_ornament:"
+  expiry: "0s"
+
+not-100:
+  text: "Not at 100%"
+  emoji: ":health_25p:"
+  expiry: "0s"
+
+ooo:
+  text: "Out of Office"
+  emoji: ":ooo:"
+  expiry: "0s"
+
+wfh:
+  text: "Working from Home"
+  emoji: ":house_with_garden:"
+  expiry: "0s"
+
+travel:
+  text: "Travelling for work (slow to respond)"
+  emoji: ":airplane:"
+  expiry: "0s"
+
+off:
+  text: ""
+  emoji: ""
+  expiry: "0s"
